@@ -16,8 +16,6 @@ make
 ```bash
 # Using cpplint.py
 make check-style
-# Using cpplint-cse.sh
-make check-style-cse
 ```
 
 #### Run Tests
